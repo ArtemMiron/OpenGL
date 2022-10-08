@@ -6,7 +6,7 @@ namespace CSharpCourse
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Колобок повесился");
+            Console.WriteLine("Колобок не повесился");
         }
     }
 }            
